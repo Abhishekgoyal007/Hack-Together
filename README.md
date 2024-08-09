@@ -10,9 +10,8 @@ HackTogether addresses several challenges faced by both hackers and bounty spons
 
 - **Quality Assurance**: Ensuring that high-quality hackers are matched with projects, leading to better builds that meet the expectations of protocols and clients.
   
-- **Fraud Prevention**: The platform focuses on preventing fraudulent profiles.  
-  - **Case 1**: Mitigating the issue of teammates skipping tasks at the last moment.
-  - **Case 2**: Protecting hackers' profiles from being compromised, a common issue on some major Web 2.0 platforms.
+- **Fraud Prevention**: The platform focuses on preventing fraudulent profiles by using an authentication know as Anon Aadhaar.
+- Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way  
   
 - **Efficient Discovery**: Hackers often have to navigate through multiple platforms to find suitable projects or collaborators, which can be time-consuming and disorganized. HackTogether aims to centralize this process.
 
